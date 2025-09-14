@@ -1,0 +1,9 @@
+﻿{
+	"name": "evote-monorepo",
+	"private": true,
+	"workspaces": [
+		"blockchain",
+		"server",
+		"web"
+	]
+}
